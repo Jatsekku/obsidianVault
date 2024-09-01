@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum computing/Qubit.md",
+                "file": "Quantum computing/Quantum gates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum computing/Qubit.md",
+                "file": "Quantum computing/Quantum gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum computing/Qubit.md",
+                "file": "Quantum computing/Quantum gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum computing/Qubit.md"
+                "file": "Quantum computing/Quantum gates.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "32d47a11c079cd59",
   "lastOpenFiles": [
-    "Math/Matrices.md",
     "Quantum computing/Qubit.md",
+    "Quantum computing/Quantum gates.md",
+    "Math/Matrices.md",
     "Quantum computing",
     "determinant.md"
   ]
