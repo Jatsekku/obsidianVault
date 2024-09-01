@@ -93,6 +93,7 @@ $$
 $$
 e^{i\theta_{g}} \ket{\Psi} = e^{i\theta_{g}} \left( \alpha \ket{0} + \beta \ket{1} \right)
 $$
-$\theta_g$ - global phase 
+$\theta_g$ - global phase
+
 - it doesn't change the quantum state - because it is not influencing the relative phase of state. 
 - Due to this fact it's also called unobservable or hidden phase.

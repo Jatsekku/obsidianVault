@@ -23,6 +23,7 @@ $$
 \end{bmatrix}
 $$
 # Conjugate
+
 - This operation makes sense only for complex-valued matrices.
 $$
 A = 
@@ -46,13 +47,15 @@ $$
 $$
 
 # Adjoint
+
 - Combination of [[#Conjugate]] and [[#Transpose]]
 $$ A^{\dagger} = \overline{(A^{T})} = (\overline{A})^{T}$$
-
 # Unitary matrix
+
 - A matrix is unitary when it's inverse is equal to its [[#Adjoint]] :
   $$ U^{-1} = U^{\dagger}$$ so the following criteria has to be met:
   $$ U^{\dagger}U = UU^{\dagger} = I_{n}$$
 
-  # Inner product
+# Inner product
+
   - Applied only for vectors
