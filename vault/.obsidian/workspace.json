@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "173edb8ab4676d32",
+        "id": "58a5b0166674e082",
         "type": "tabs",
         "children": [
           {
-            "id": "32d47a11c079cd59",
+            "id": "db58a3936795690d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum computing/Quantum gates.md",
+                "file": "DevOps/Github Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum computing/Quantum gates.md",
+                "file": "DevOps/Github Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum computing/Quantum gates.md",
+                "file": "DevOps/Github Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum computing/Quantum gates.md"
+                "file": "DevOps/Github Actions.md"
               }
             }
           }
@@ -145,11 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d47a11c079cd59",
+  "active": "db58a3936795690d",
   "lastOpenFiles": [
-    "Quantum computing/Qubit.md",
-    "Quantum computing/Quantum gates.md",
+    "DevOps/GithubActions_overview.png",
+    "DevOps/Github Actions.md",
+    "DevOps/GithubActions_overview.png.crdownload",
     "Math/Matrices.md",
+    "Quantum computing/Quantum gates.md",
+    "DevOps/Untitled 1.md",
+    "Quantum computing/Qubit.md",
+    "DevOps",
+    "Github",
     "index.md",
     "Quantum computing",
     "determinant.md"
