@@ -1,3 +1,7 @@
 [submodule "quartz"]
 	path = quartz
 	url = https://github.com/jackyzha0/quartz.git
+[submodule "obsidianPrivate"]
+	path = obsidianPrivate
+	url = git@github.com:Jatsekku/obsidianPrivate.git
+	branch = main
